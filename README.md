@@ -7,6 +7,7 @@
 <br>
 
 Projetos desenvolvidos durante as edições da Maratona Explorer da Rocketseat, com Mayk Brito.
+Neste repositório está disponível o projeto da Maratona 3.0 Para acessar o código fonte do projeto da Maratona 2.0 basta acessar o link para o repositório, abaixo da imagem.
 
 
 # <a href='https://wanuzia.github.io/wanuzia-links/'>Meus Links</a>
