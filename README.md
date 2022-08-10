@@ -22,6 +22,9 @@ Projeto desenvolvido durante a Maratona Explorer 2.0 - Rocketseat.
  # <a href="https://preeminent-churros-c051ef.netlify.app/">RocketCoffee</a>
 
 Projeto desenvolvido durante a Maratona Explorer 3.0 - Rocketseat.
+ 
+ ![frame](https://user-images.githubusercontent.com/98324557/183801628-a9a2978c-b057-4e57-a282-a3ceffb12b71.png)
+
 
 <img width=320px src="https://user-images.githubusercontent.com/98324557/183793535-03c7a61b-bb10-4c21-84df-394ce0681491.png" />
 </div>
