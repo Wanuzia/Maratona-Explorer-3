@@ -19,7 +19,7 @@ Projeto desenvolvido durante a Maratona Explorer 2.0 - Rocketseat.
  
  <a href="https://github.com/Wanuzia/wanuzia-links">Reposítório</a>
  
- # RocketCoffee
+ # <a href="https://preeminent-churros-c051ef.netlify.app/">RocketCoffee</a>
 
 Projeto desenvolvido durante a Maratona Explorer 3.0 - Rocketseat.
 
